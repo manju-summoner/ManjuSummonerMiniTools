@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LaunchSnippingTool", "Launc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CopyPngToClipboardWithAlpha", "CopyPngToClipboardWithAlpha\CopyPngToClipboardWithAlpha.csproj", "{7C4D51E7-01D9-49E8-8B47-4D95BCA7C60A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PastePngFromClipboardWithAlpha", "PastePngFromClipboardWithAlpha\PastePngFromClipboardWithAlpha.csproj", "{15E59117-B031-4B04-B71F-DE28A66C6190}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7C4D51E7-01D9-49E8-8B47-4D95BCA7C60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C4D51E7-01D9-49E8-8B47-4D95BCA7C60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C4D51E7-01D9-49E8-8B47-4D95BCA7C60A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E59117-B031-4B04-B71F-DE28A66C6190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E59117-B031-4B04-B71F-DE28A66C6190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E59117-B031-4B04-B71F-DE28A66C6190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E59117-B031-4B04-B71F-DE28A66C6190}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
