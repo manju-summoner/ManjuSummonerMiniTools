@@ -3,7 +3,7 @@
 PNG画像の透過情報を維持したまま画像をクリップボードにコピーするためのツール。  
 画像の貼り付け側で特別な対応が必要。
 - Paint.NET
-- FireAlpaka
+- FireAlpaca
 等で利用可能。
 
 ## PastePngFromClipboardWithAlpha
